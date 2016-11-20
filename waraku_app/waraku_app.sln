@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EA878FF7-737B-49D3-E073-8CC6B830F8EA}") = "waraku_app", "Assembly-CSharp.csproj", "{D57257A1-8A77-0E1C-B111-E74A6C6F8EDB}"
+EndProject
+Project("{EA878FF7-737B-49D3-E073-8CC6B830F8EA}") = "waraku_app", "Assembly-CSharp-Editor.csproj", "{24E933D7-5607-D733-5C2B-FF9857D7D33F}"
+EndProject
+Project("{EA878FF7-737B-49D3-E073-8CC6B830F8EA}") = "waraku_app", "Assembly-UnityScript-Editor-firstpass.unityproj", "{D025DF05-C294-B95E-BA8A-F2FFD085F422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D57257A1-8A77-0E1C-B111-E74A6C6F8EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57257A1-8A77-0E1C-B111-E74A6C6F8EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57257A1-8A77-0E1C-B111-E74A6C6F8EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57257A1-8A77-0E1C-B111-E74A6C6F8EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E933D7-5607-D733-5C2B-FF9857D7D33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E933D7-5607-D733-5C2B-FF9857D7D33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E933D7-5607-D733-5C2B-FF9857D7D33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E933D7-5607-D733-5C2B-FF9857D7D33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D025DF05-C294-B95E-BA8A-F2FFD085F422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D025DF05-C294-B95E-BA8A-F2FFD085F422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D025DF05-C294-B95E-BA8A-F2FFD085F422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D025DF05-C294-B95E-BA8A-F2FFD085F422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
